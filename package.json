@@ -1,0 +1,29 @@
+{
+  "name": "yestoall-atom-syntax",
+  "theme": "syntax",
+  "version": "0.1",
+  "description": "yestoall syntax colors for atom",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yestoall/yestoall-atom-syntax"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=2.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/yestoall/yestoall-atom-syntax/issues"
+  },
+  "homepage": "https://github.com/yestoall/yestoall-atom-syntax",
+  "_id": "yestoall-atom-syntax@0.1",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}
